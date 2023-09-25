@@ -1,10 +1,10 @@
 {
   "base": {
-    "project": "some project",
-    "environment": "some env",
+    "project": "QA.GURU notifications lesson",
+    "environment": "qa.guru",
     "comment": "some comment",
-    "reportLink": "",
-    "language": "en",
+    "reportLink": "https://jenkins.autotests.cloud",
+    "language": "ru",
     "messenger": "telegram",
     "allureFolder": "allure-report/",
     "enableChart": true
