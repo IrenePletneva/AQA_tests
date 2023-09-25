@@ -1,6 +1,6 @@
 {
   "base": {
-    "project": "QA.GURU notifications lesson",
+    "project": "AQAbot",
     "environment": "qa.guru",
     "comment": "some comment",
     "reportLink": "https://jenkins.autotests.cloud",
